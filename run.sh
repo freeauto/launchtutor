@@ -2,4 +2,4 @@
 
 source _include.sh
 
-python hello.py
+python main.py
